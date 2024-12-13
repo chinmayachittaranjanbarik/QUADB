@@ -14,7 +14,7 @@ function App() {
         </div>
       </div>
       <p>
-        <a href="https://github.com/KashifCh-eth" className="link-warning">
+        <a href="https://github.com/chinmayachittaranjanbarik" className="link-warning">
           https://github.com/KashifCh-eth ✔🟡
         </a>
       </p>
